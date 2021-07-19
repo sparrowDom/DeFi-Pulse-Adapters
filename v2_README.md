@@ -1,3 +1,7 @@
+# Important Notes
+
+This documentation is for the V2 style adapter that has currently been deprecated in favor of the original adapter implementation. For projects who have a V2 style adapter we will continue to support them for the foreseeable future and you can use this README as a reference. All new projects please continue to use the main README to guide you.
+ 
 # DeFi Pulse Project Templates
 
 Welcome to the DeFiPulse Project Template Repository! This purpose of this repo is to allow 3rd party developers to build, validate and update their own project adapter for DeFi Pulse in order to allow a higher volume of projects to be added and maintained over time.
